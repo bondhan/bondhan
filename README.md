@@ -1,26 +1,29 @@
-Hi there 👋, I am Bondhan Novandy, Indonesian and living in Depok, West-Java Indonesia.
+Hi there 👋, I'm Bondhan Novandy, an Indonesian currently living in Depok, West Java.
 
-I have been into programming since high school and currently working as IT Architect in one of the telecom companies in Indonesia.
-In my "leasure" time I used to do PoCs on some of things which make me curious and of course with some $$ it will be more interesting 😅
-My programming languages are Go, Python, Java, C/C++ and assembly. 
+I've been into programming since high school, and I'm currently working as an IT Architect at one of the telecom companies in Indonesia.  
 
-My expertise are:
+In my **leisure** time, I enjoy doing proof-of-concepts (PoCs) on things that spark my curiosity—and of course, it gets even more interesting with some 💰 involved 😅.
+
+Programming languages I use include Go, Python, Java, C/C++, and assembly.
+
+**My areas of expertise:**
 - EMV
-- Smart Card/Java Card/Mifrare/Desfire cards
+- Smart Card / Java Card / Mifare / Desfire cards
 - Golang microservices
 - Qt with C/C++
-- Python for toolings
+- Python for tooling
 - ISO8583
-- IT architecture/End2End Solutions Architect, some projects (on premise):
-  1. API Gateways (Tyk & Krakend)
-  2. Bank Gateway (Middleware Application)
-  3. KeyCloak
-  4. Prepaid Registration
-  5. SDP
-  6. Docker/Containerization
-  7. Kubernetes
-  8. etc.
+- Embedded Systems
+- IT Architecture / End-to-End Solutions Architecture
 
-I am opened for any collaborations which make impact. 
+**Some of the projects I’ve worked on (on-premise) in the last 2 years:**
+1. Bank Gateway (modernization from C++ mfino to Java Microservices)  
+2. Camara Data Monetization (Keycloak + Tyk)
+3. Prepaid Registration Modernization from Tibco to Microservices  
+4. Emergency Credit
+5. IT System Architecture review and capacity sizing
+6. ...and more
 
-Thanks
+I'm open to any collaboration that makes impact.
+
+Thanks!
