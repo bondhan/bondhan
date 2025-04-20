@@ -27,3 +27,5 @@ Programming languages I use include Go, Python, Java, C/C++, and assembly.
 I'm open to any collaboration that makes impact.
 
 Thanks!
+
+Note: Why my profile is several resistors are connected together on a maxon EPOS controller. That is because it took sometime for me to debug, you can read the article [here](https://bono02.wordpress.com/2008/02/03/maxon-epos-with-canopen/)
